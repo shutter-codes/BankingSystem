@@ -1,6 +1,6 @@
-http://localhost:9090/finance/v1/bank/v4/india/create-account --working
+http://localhost:9090/finance/v1/bank/v4/india/create-account
 http://localhost:9090/finance/v1/bank/v4/bharat/update-account-details
-http://localhost:9090/finance/v1/bank/v4/india/get-account-details/1127308532587/UCBA6780/2152 --working
+http://localhost:9090/finance/v1/bank/v4/india/get-account-details/1127308532587/UCBA6780/2152
 http://localhost:9090/finance/v1/bank/v4/bharat/credit-money
 http://localhost:9090/finance/v1/bank/v4/bharat/credit-money
 http://localhost:9090/finance/v1/bank/v4/bharat/debit-money
